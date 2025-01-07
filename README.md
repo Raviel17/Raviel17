@@ -76,7 +76,9 @@
 ### 🎵 Now Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=behhkgzptko6v114yt7ad3j3a&cover_image=true&theme=novatorem" />
+  <a href="https://open.spotify.com/user/behhkgzptko6v114yt7ad3j3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=behhkgzptko6v114yt7ad3j3a&count=1&unique=true" alt="Spotify recently played">
+  </a>
 </div>
 
 ### 🤝 Connect with Me
@@ -88,12 +90,6 @@
   <a href="https://instagram.com/raygvrl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
-
-### 🎵 Now Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=behhkgzptko6v114yt7ad3j3a&cover_image=true&theme=novatorem" />
 </div>
 
 ### ☕ Support Me
