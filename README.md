@@ -73,11 +73,11 @@
   <img src="https://img.shields.io/badge/AMD-Ryzen_9_5000-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </div>
 
-### 🎵 Now Playing
+### 🎵 Spotify Profile
 
 <div align="center">
   <a href="https://open.spotify.com/user/behhkgzptko6v114yt7ad3j3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=behhkgzptko6v114yt7ad3j3a&count=1&unique=true" alt="Spotify recently played">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
 
