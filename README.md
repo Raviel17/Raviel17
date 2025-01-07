@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raviel17&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raviel17&theme=radical&show_icons=true&hide_border=false&count_private=true" />
 </div>
 
 <div align="center">
@@ -45,13 +45,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviel17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raviel17&theme=radical&hide_border=false&layout=compact" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-trophies.vercel.app/?username=Raviel17&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ### 🎯 Featured Projects
