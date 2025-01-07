@@ -73,12 +73,12 @@
   <img src="https://img.shields.io/badge/AMD-Ryzen_9_5000-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </div>
 
-### 🎵 Spotify Profile
+### 🎵 Now Playing
 
 <div align="center">
-  <a href="https://open.spotify.com/user/behhkgzptko6v114yt7ad3j3a">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-  </a>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=behhkgzptko6v114yt7ad3j3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 </div>
 
 ### 🤝 Connect with Me
