@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+  <img height="150" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif"/>
 </div>
 
 <h1 align="center">Hai 👋, Saya Ray Gavriel Buulolo</h1>
@@ -7,7 +7,7 @@
 <h3 align="center">Tech Enthusiast & Developer dari Indonesia 🇮🇩</h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raviel17&label=Profile%20views&color=0e75b6&style=flat" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Raviel17&color=blueviolet" alt="Profile Views"/>
 </div>
 
 ---
@@ -37,18 +37,21 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raviel17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raviel17&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raviel17&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviel17&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviel17&theme=radical&hide_border=false" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviel17&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ### 🎯 Featured Projects
