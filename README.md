@@ -77,7 +77,7 @@
 
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=behhkgzptko6v114yt7ad3j3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://novatorem-raviel17.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/behhkgzptko6v114yt7ad3j3a)
 
 </div>
 
