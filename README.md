@@ -2,22 +2,22 @@
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
 </div>
 
-<h1 align="center">Hai 👋, Selamat Datang di Profil GitHub Saya</h1>
+<h1 align="center">Hai 👋, Saya Ray Gavriel Buulolo</h1>
 
-<h3 align="center">Seorang Pengembang Passionate dari Indonesia 🇮🇩</h3>
+<h3 align="center">Tech Enthusiast & Developer dari Indonesia 🇮🇩</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raviel17.Raviel17" alt="visitors"/>
 </div>
 
 ---
 
 ### 👨‍💻 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan **[Nama Proyek]**
-- 🌱 Sedang mempelajari **[Teknologi/Skill]**
-- 👯 Mencari kolaborasi untuk **[Jenis Proyek]**
-- 💬 Tanya saya tentang **[Bidang Keahlian]**
+- 🔭 Saat ini saya sedang mengerjakan **MedClassify** - Sistem Machine Learning untuk identifikasi obat
+- 🌱 Sedang mempelajari **Machine Learning, IoT, Web App, dan Flutter**
+- 💡 Tertarik dengan **Web Development, IoT, dan UI Design**
+- 💬 Tanya saya tentang **Web Development & Internet of Things**
 - 📫 Hubungi saya di **raygavriel91@gmail.com**
 
 ### 🛠 Tech Stack
@@ -26,39 +26,42 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- Tambahkan badge teknologi lainnya sesuai keahlian Anda -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PlatformIO-FF6B00?style=for-the-badge&logo=platformio&logoColor=white"/>
 </div>
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raviel17&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviel17&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
-### 🎯 Latest Projects
+### 🎯 Featured Projects
 
-<!-- Daftar proyek terbaru Anda -->
-- [Nama Proyek 1](link-proyek) - Deskripsi singkat
-- [Nama Proyek 2](link-proyek) - Deskripsi singkat
-- [Nama Proyek 3](link-proyek) - Deskripsi singkat
+- **MedClassify** - Sistem Machine Learning untuk mengidentifikasi nama obat dan informasi terkait
+- **Company Profile Dashboard** - Website company profile terintegrasi dengan sistem dashboard
+- **IoT Water Quality** - Sistem monitoring kualitas air untuk budidaya ikan berbasis IoT
 
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/ray-gavriel">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://instagram.com/raygvrl">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <!-- Tambahkan media sosial lainnya -->
 </div>
 
 ---
