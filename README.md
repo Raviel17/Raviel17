@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviel17&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Raviel17&theme=radical&hide_border=false" />
 </div>
 
 <div align="center">
