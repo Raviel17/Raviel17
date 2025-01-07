@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Raviel17&theme=radical&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviel17&theme=redical&hide_border=false" />
 </div>
 
 <div align="center">
