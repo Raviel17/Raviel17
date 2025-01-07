@@ -7,7 +7,7 @@
 <h3 align="center">Tech Enthusiast & Developer dari Indonesia 🇮🇩</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Raviel17.Raviel17" alt="visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=Raviel17&label=Profile%20views&color=0e75b6&style=flat" alt="visitors"/>
 </div>
 
 ---
@@ -37,14 +37,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raviel17&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Raviel17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raviel17&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviel17&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Raviel17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
 </div>
 
 ### 🎯 Featured Projects
@@ -56,10 +60,10 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ray-gavriel">
+  <a href="https://linkedin.com/in/ray-gavriel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/raygvrl">
+  <a href="https://instagram.com/raygvrl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
