@@ -73,15 +73,7 @@
   <img src="https://img.shields.io/badge/AMD-Ryzen_9_5000-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </div>
 
-### 🎵 Now Playing
-
-<div align="center">
-  
-[![Spotify](https://novatorem-raviel17.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/behhkgzptko6v114yt7ad3j3a)
-
-</div>
-
-### 🤝 Connect with Me
+### 🎵 Connect with Me
 
 <div align="center">
   <a href="https://linkedin.com/in/ray-gavriel" target="_blank">
