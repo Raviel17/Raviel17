@@ -64,7 +64,7 @@
 
 - **MedClassify** - Sistem Machine Learning untuk mengidentifikasi nama obat dan informasi terkait
 - **Company Profile Dashboard** - Website company profile terintegrasi dengan sistem dashboard
-- **IoT Water Quality** - Sistem monitoring kualitas air untuk budidaya ikan berbasis IoT
+- **IoT Water Quality** - Sistem monitoring kualitas air untuk budidaya ikan lele berbasis IoT
 
 ### 🖥️ Workspace Setup
 
